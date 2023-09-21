@@ -38,8 +38,8 @@ body * {
 }
 /*================profile======================*/
 #cnt {
-  width: 360px;
-  border: 1px solid red;
+  width: 100%;
+  max-width: 588px;
   padding: 0 24px;
   /*margin: auto; /*margem para alinha a borda automatica*/
   margin: 56px auto 0px;
